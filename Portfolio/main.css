@@ -1,0 +1,116 @@
+body {
+    background-color: white;
+}
+
+.buttons  {
+    text-decoration-color: black;
+    text-align: center;
+}
+
+.Name {
+    text-align: center;
+}
+
+.Desc {
+    text-align: center;
+}
+
+.Where {
+    text-align: center;
+}
+
+.head {
+    text-align: center;
+}
+
+.form {
+    width: 500px; 
+    margin: auto; 
+    padding: 30px 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px black; 
+}
+
+.p1 {
+    text-align: center;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.skills {
+    text-align: center;
+}
+
+.HTML {
+    text-align: center;
+    margin: 1em;
+}
+
+.CSS {
+    text-align: center;
+    margin: 1em;
+}
+
+.C {
+    text-align: center;
+    margin: 1em;
+}
+
+.portfolio {
+    text-align: center;
+}
+
+.projects {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+.email {
+    text-align: center; 
+}
+
+.phone {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.a {
+    text-align: center;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.Insta {
+    margin: 1em;
+}
+
+.Linkedin {
+    margin: 1em;
+}
+
+.CodePen {
+    margin: 1em;
+}
+
+.GitHub {
+    margin: 1em;
+}
